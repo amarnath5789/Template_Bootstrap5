@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&display=swap");
+
+.nav-size {
+  font-size: 19px;
+}
+.card-head1 {
+  font: normal normal 900 40px/54px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.card-text {
+  font: normal normal normal 18px/24px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.top-btn {
+  font: normal normal 600 23px/31px Nunito Sans;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  background: #1492e6 0% 0% no-repeat padding-box;
+  box-shadow: 0px 16px 48px #00000029;
+  border-radius: 33px;
+  opacity: 1;
+}
+.sec-head {
+  font: normal normal bold 35px/47px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.card-des {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 18px;
+  opacity: 1;
+}
+.card-head2 {
+  font: normal normal bold 18px/24px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+}
+.zig-head {
+  font: normal normal bold 24px/32px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.zig-text {
+  font: normal normal normal 21px/28px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.box-info {
+  background: #f8fafc 0% 0% no-repeat padding-box;
+  box-shadow: 0px 16px 48px #00000029;
+  border-radius: 42px;
+  opacity: 1;
+}
+.star1 {
+  width: 60px;
+}
+.bottom-card {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 16px 48px #00000029;
+  border-radius: 30px;
+}
+.card-text-bt {
+  font: normal normal normal 13px/18px Nunito Sans;
+  letter-spacing: 0px;
+  color: #000000;
+}
+.star-size {
+  width: 14px;
+}
+.per-head {
+  font: normal normal 700 13px/18px Nunito Sans;
+}
+.text-brand {
+  font: normal normal bold 18px/24px Nunito Sans;
+}
+.foot {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 40vh;
+  color: #FFFFFF;
+  font: normal normal bold 18px/24px Nunito Sans;
+  background: #000000 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+}
